@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>VXM'S MENUS</title>
+  <style>
+    body {
+      background-color: black;
+      color: darkgreen;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 40px;
+    }
+
+    .download-btn {
+      background-color: darkgreen;
+      color: black;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      text-decoration: none;
+    }
+
+    .download-btn:hover {
+      background-color: limegreen;
+    }
+  </style>
+</head>
+<body>
+  <h1>II's STUPID MENU</h1>
+  <a class="download-btn" href="iis_Stupid_Menu.dll" download>Download</a>
+</body>
+</html>
